@@ -1,5 +1,5 @@
 const API_URL =
-  process.env.NEXT_PUBLIC_PROD_BACKEND_API_URL || "http://localhost:5000/api";
+    process.env.NEXT_PUBLIC_PROD_BACKEND_API_URL || "https://xeno-backend-1-qqd7.onrender.com/";
 
 export const fetchCampaigns = async () => {
   try {
