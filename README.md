@@ -2,6 +2,8 @@
 
 This is the frontend for the Mini CRM application built using Next.js. The project showcases the ability to create and manage campaigns, define audience rules, and view past campaign.
 
+# Live Demo
+Check out the live demo [here](https://xeno-mini-crm-frontend-production.up.railway.app/).
 
 ## Tech Stack
 
@@ -28,7 +30,7 @@ This is the frontend for the Mini CRM application built using Next.js. The proje
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/tanishqmethi2003/xeno-frontend.git
+    git clone https://github.com/tanishqmethi2003/xeno-mini-crm-frontend.git
     cd xeno-mini-crm-frontend
     ```
 
